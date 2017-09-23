@@ -1,0 +1,21 @@
+{
+  "name": "async-await-js",
+  "version": "1.0.0",
+  "description": "Examples how to use async await in JavaScript for calling promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "async-await-js"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "promise",
+    "js"
+  ],
+  "author": "pradeep1991singh",
+  "license": "ISC"
+}
